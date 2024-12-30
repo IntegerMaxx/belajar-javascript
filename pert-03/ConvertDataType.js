@@ -13,7 +13,7 @@ const strBoolean = String(boolean);
 const strBoolean2 = boolean2.toString();
 
 console.log("setelah. jenis data type",typeof strNumber);
-console.log("setelah. jenis data type",typeof strBoolean);
+console.log(`setelah. nilai = ${strBoolean}. jenis data type`,typeof strBoolean);
 console.log("setelah. jenis data type",`${typeof strBoolean2}\n`);
 
 // KONVERSI STRING DAN BOOLEAN KE NUMBER
@@ -46,8 +46,8 @@ const intFromPX = parseInt(px);
 console.log(`setelah. jenis data type ${typeof floatFromCM} = ${floatFromCM}`); 
 console.log(`setelah. jenis data type ${typeof intFromPX} = ${intFromPX}`); 
 
-// KONVERSI NUMBER DAN BOOLEAN KE STRING
-console.log("\n=======KONVERSI NUMBER DAN BOOLEAN KE STRING=======");
+// KONVERSI NUMBER DAN STRING KE BOOLEAN
+console.log("\n=======KONVERSI NUMBER DAN STRING KE BOOLEAN=======");
 const number1 = 123;
 const string = 'IntegerMaxx';
 const empty = null;
