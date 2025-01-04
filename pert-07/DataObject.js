@@ -87,3 +87,13 @@ print(account2);
 
 delete account2.balance;
 print(account2);
+
+const objTest = {
+    false : 20,
+    12 : 3,
+    'true' : 'just test',
+    test :  'menjadi manusia',
+    test :  'menjadi manusia'
+};
+
+print(objTest.test);
