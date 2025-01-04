@@ -42,7 +42,11 @@ mahasiswa.set(
             semester1: {
                 'Bahasa Inggris' : 200,
                 'Matematika teknik ' : 1000,
-            }
+            },
+            semester2: {
+                'Bahasa Inggris' : 200,
+                'Matematika teknik ' : 1000,
+            },
         }
     },
 );
