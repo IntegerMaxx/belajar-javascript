@@ -4,6 +4,8 @@ const productMap = new Map([
     ['jeans', 250],
 ]);
 
+productMap.has
+
 
 justPrint(typeof productMap);
 // LATIHAN MAP
