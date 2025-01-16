@@ -1,0 +1,58 @@
+jadi saat kita ingin memasukkan file javaScript lain yang memiliki keyword "export"
+ke dalam file "index.html", kita perlu memasukkannya ke dalam file yang akan
+mengimport terlebih dahulu. Contohnya ada pada package ini.
+
+Setelah memasukkan file "export" ke dalam file "import". Maka file "index.html"
+dapat memanggil file import tadi. contoh pemanggilannya seperti ini 
+"<script src="Import.js" type="module"></script>" 
+
+Agar dapat melakukan export dan import file yang terlibat harus menggunakan
+extention ".mjs"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
