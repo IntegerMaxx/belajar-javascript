@@ -1,0 +1,4 @@
+
+Sebenarnya JavaScript bukan bahasa pemrograman berbasis class. 
+Namun, JavaScript bukan bahasa OOP berbasis kelas,
+melainkan bahasa berbasis prototipe.
